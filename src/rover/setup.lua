@@ -3,7 +3,6 @@ local ipairs = ipairs
 local pairs = pairs
 local package = package
 local require = require
-local pcall = pcall
 
 local mt = {}
 local _M = {}
